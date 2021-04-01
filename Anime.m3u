@@ -15,3 +15,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d32
 #EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-name="Anime All Day" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c363ac9e41be30cb6054c7c/colorLogoPNG.png" tvg-url="" group-title="",Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-logo="https://scontent.fagu3-1.fna.fbcdn.net/v/t1.6435-9/101983999_4037959232913262_5720437873072541732_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=2c4854&_nc_ohc=YPCJXn8haowAX_ozxt_&_nc_ht=scontent.fagu3-1.fna&oh=16c7d1bffdb4dc1b8c19b1df66115734&oe=608D135F" ,ConTV Anime
+https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
